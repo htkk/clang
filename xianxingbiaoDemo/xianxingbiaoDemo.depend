@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1564804189 source:e:\work\c\xianxingbiaodemo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DataElement.h"
+
+1561277616 e:\work\c\xianxingbiaodemo\dataelement.h
+
+1561474542 source:e:\work\c\xianxingbiaodemo\sequencelist.c
+	"SequenceList.h"
+
+1561471531 e:\work\c\xianxingbiaodemo\sequencelist.h
+	<stdio.h>
+	<stdlib.h>
+	"DataElement.h"
+

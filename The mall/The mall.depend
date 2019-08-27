@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1544518174 source:e:\code\the mall\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mall.h"
+
+1544518388 e:\code\the mall\mall.h
+
+1544576853 source:e:\code\the mall\mall.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Mall.h"
+

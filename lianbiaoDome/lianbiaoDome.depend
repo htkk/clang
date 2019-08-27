@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1564991627 source:e:\work\c\lianbiaodome\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DataElement.h"
+	"LinkList.h"
+
+1564992277 e:\work\c\lianbiaodome\dataelement.h
+
+1565058030 e:\work\c\lianbiaodome\linklist.h
+	<stdio.h>
+	<stdlib.h>
+	"DataElement.h"
+
+1565058030 source:e:\work\c\lianbiaodome\linklist.c
+	"LinkList.h"
+

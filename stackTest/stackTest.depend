@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1566887969 source:e:\work\c\stacktest\main.c
+	"SeqStack.h"
+
+1566795589 e:\work\c\stacktest\seqstack.h
+	<stdio.h>
+	<stdlib.h>
+	"Element.h"
+
+1566892035 e:\work\c\stacktest\element.h
+
+1566797279 source:e:\work\c\stacktest\seqstack.c
+	"SeqStack.h"
+
+1566892035 source:e:\work\c\stacktest\linkedstack.c
+	"LinkedStack.h"
+
+1566892035 e:\work\c\stacktest\linkedstack.h
+	<stdio.h>
+	<stdlib.h>
+	"Element.h"
+
+1566893092 source:e:\work\c\stacktest\gobang.c
+	"Gobang.h"
+	"LinkedStack.h"
+
+1566893092 e:\work\c\stacktest\gobang.h
+	"Element.h"
+
