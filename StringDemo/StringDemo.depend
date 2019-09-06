@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1567752552 source:e:\work\c\stringdemo\seqstring.c
+	"SeqString.h"
+
+1567755866 e:\work\c\stringdemo\seqstring.h
+	"StatusLib.h"
+	<String.h>
+
+1567497628 e:\work\c\stringdemo\statuslib.h
+	<stdio.h>
+	<stdlib.h>
+
+1567755866 source:e:\work\c\stringdemo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SeqString.h"
+
