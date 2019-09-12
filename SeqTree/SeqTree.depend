@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1568277216 source:e:\work\c\seqtree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SeqTree.h"
+	"BinaryTreeLink.h"
+
+1568171895 source:e:\work\c\seqtree\seqtree.c
+	"SeqTree.h"
+
+1568171896 e:\work\c\seqtree\seqtree.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1568272984 source:e:\work\c\seqtree\binarytreelink.c
+	"BinaryTreeLink.h"
+
+1568277216 e:\work\c\seqtree\binarytreelink.h
+	"TreeNode.h"
+	<string.h>
+
+1568188136 e:\work\c\seqtree\treenode.h
+	"ElementType.h"
+
+1568188136 e:\work\c\seqtree\elementtype.h
+	<stdio.h>
+	<stdlib.h>
+
+1568277320 source:e:\work\c\seqtree\linkedstack.c
+	"LinkedStack.h"
+
+1568277216 e:\work\c\seqtree\linkedstack.h
+	<stdio.h>
+	"TreeNode.h"
+
